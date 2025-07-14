@@ -108,3 +108,10 @@ footer {
     padding: 2rem 1rem;
   }
 }
+
+/* Transparent wrapper for the Request a Quote button */
+.blank-background {
+  background-color: transparent;
+  display: inline-block;
+  padding: 1rem 0;
+}
